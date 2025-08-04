@@ -1,0 +1,6 @@
+ctrl+shift+p = git:clone
+sign in
+save in local
+git config --global user.name "XYZ"
+git config --global user.email "XYZ@example.com"
+
